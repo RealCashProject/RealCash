@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=RealCash Wallet
+Comment=RealCash wallet
+Exec=RealCash %U
+Terminal=false
+Type=Application
+Icon=intensecoin
+MimeType=x-scheme-handler/intensecoin;
+Categories=Office;Finance;
