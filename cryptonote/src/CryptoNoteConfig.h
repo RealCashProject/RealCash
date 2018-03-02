@@ -35,8 +35,8 @@ const uint64_t CRYPTONOTE_BLOCK_FUTURE_TIME_LIMIT            = 60 * 60 * 2;
 const size_t   BLOCKCHAIN_TIMESTAMP_CHECK_WINDOW             = 60;
 
 // MONEY_SUPPLY - total number coins to be generated
-const uint64_t MONEY_SUPPLY				     = UINT64_C(55000000000000000);
-const uint64_t FINAL_SUBSIDY_PER_MINUTE			     = UINT64_C(300000000);
+const uint64_t MONEY_SUPPLY				                     = UINT64_C(55000000000000000);
+const uint64_t FINAL_SUBSIDY_PER_MINUTE			             = UINT64_C(300000000);
 const unsigned EMISSION_SPEED_FACTOR                         = 20;
 static_assert(EMISSION_SPEED_FACTOR <= 8 * sizeof(uint64_t), "Bad EMISSION_SPEED_FACTOR");
 
@@ -96,7 +96,6 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 } // parameters
 
 const char     CRYPTONOTE_NAME[]                             = "RealCash";
-const char     GENESIS_COINBASE_TX_HEX[]                     = "";
 
 const uint8_t  TRANSACTION_VERSION_1                         =  1;
 const uint8_t  TRANSACTION_VERSION_2                         =  2;
@@ -130,7 +129,7 @@ const size_t   P2P_DEFAULT_HANDSHAKE_INVOKE_TIMEOUT          = 5000;          //
 const char     P2P_STAT_TRUSTED_PUB_KEY[] = "1500000000000000000000000000000000000000000000000000000000000001";
 
 const char* const SEED_NODES[] = {
-	"107.172.206.143:15001",
+	"69.85.85.65:15001",
 	"69.85.85.206:15001"
 };
 
