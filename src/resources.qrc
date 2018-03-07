@@ -98,13 +98,13 @@
     </qresource>
     <qresource prefix="/images">
         <file alias="splash">images/splash.png</file>
-        <file alias="intensecoin_lin">images/intensecoin.png</file>
+        <file alias="realcash_lin">images/realcash.png</file>
         <file alias="add_address_helper">images/add_address_helper.png</file>
-        <file alias="intensecoin_mac">images/intensecoin.icns</file>
-        <file alias="intensecoin_win">images/intensecoin.png</file>
+        <file alias="realcash_mac">images/realcash.icns</file>
+        <file alias="realcash_win">images/realcash.png</file>
     </qresource>
     <qresource prefix="/style">
-        <file alias="qss">intensecoinwallet.qss</file>
+        <file alias="qss">realcash.qss</file>
     </qresource>
     <qresource prefix="/font">
         <file alias="Bold">font/OpenSans-Bold.ttf</file>

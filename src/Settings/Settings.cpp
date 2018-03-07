@@ -80,7 +80,7 @@ Settings& Settings::instance() {
 
 
 Settings::Settings() : m_p2pBindPort(0), m_cmdLineParser(nullptr) {
-  m_defaultPoolList << "stratum01.realcash.me:9992";
+  m_defaultPoolList << "pool.realcash.tech:6667";
 
   Style* lightStyle = new LightStyle();
   Style* darkStyle = new DarkStyle();
