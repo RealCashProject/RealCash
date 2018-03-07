@@ -104,7 +104,7 @@
         <file alias="realcash_win">images/realcash.png</file>
     </qresource>
     <qresource prefix="/style">
-        <file alias="qss">realcash.qss</file>
+        <file alias="qss">realcashwallet.qss</file>
     </qresource>
     <qresource prefix="/font">
         <file alias="Bold">font/OpenSans-Bold.ttf</file>
