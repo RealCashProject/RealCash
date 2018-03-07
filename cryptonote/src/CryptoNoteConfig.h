@@ -143,8 +143,8 @@ struct CheckpointData {
 // You may add here other checkpoints using the following format:
 // {<block height>, "<block hash>"},
 const std::initializer_list<CheckpointData> CHECKPOINTS = {
-    { 0, "c2e007adb351852517783ad6d9c139a0f4d5706704dfaa3509db120758fa9c48" },
-    { 1, "5b3be8417aaafb466e8621f95c1339f5e44efa898b452885900e87eb58d90f86" },
+   // { 0, "c2e007adb351852517783ad6d9c139a0f4d5706704dfaa3509db120758fa9c48" },
+    //{ 1, "5b3be8417aaafb466e8621f95c1339f5e44efa898b452885900e87eb58d90f86" },
 };
 } // CryptoNote
 
