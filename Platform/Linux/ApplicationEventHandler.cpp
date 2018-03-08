@@ -35,7 +35,7 @@ const char DBUS_FREEDESKTOP_SS_PATH[] = "/org/freedesktop/ScreenSaver";
 const char DBUS_FREEDESKTOP_SS_INTERFACE[] = "org.freedesktop.ScreenSaver";
 const char DBUS_FREEDESKTOP_SS_MEMBER[] = "ActiveChanged";
 
-const char PAYMENT_SERVER_NAME[] = "realcash-payment-server-1501DIZEv5ahqXuD99d5H1jXQ";
+const char PAYMENT_SERVER_NAME[] = "chavezcoin-payment-server-YrmF1jZEv5ahqXuD99d5H1jXQ";
 
 }
 
